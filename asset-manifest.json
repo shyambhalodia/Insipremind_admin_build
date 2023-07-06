@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a085bec3.css",
-    "main.js": "/static/js/main.80cd33a8.js",
+    "main.js": "/static/js/main.ab76b89b.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.72ca54e8.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.f44e5f32.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.4785d7b9.chunk.js",
@@ -33,7 +33,6 @@
     "static/media/login-bg-light.webp": "/static/media/login-bg-light.9b81f23ab3b987e1dd43.webp",
     "static/media/login-bg-dark.webp": "/static/media/login-bg-dark.8e5f92c480bf54ea1e1b.webp",
     "service-worker.js": "/service-worker.js",
-    "static/media/nutra-plus.png": "/static/media/nutra-plus.2094661606a9796981a6.png",
     "static/media/page_not_found.svg": "/static/media/page_not_found.61b2bb6e8420c9101d41fb843889cd5a.svg",
     "static/media/forget-password.svg": "/static/media/forget-password.f970dd1a3fecfa3e5fa23f01b1ad4f8e.svg",
     "static/media/Youtube.svg": "/static/media/Youtube.8e476878371d2d1560a48e6d3c873066.svg",
@@ -46,7 +45,7 @@
     "static/media/Twitter.svg": "/static/media/Twitter.d9034a58804dc35527675f79f09b6c9d.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.ec7374c35e87cff4d91369fee5ee9b90.svg",
     "main.a085bec3.css.map": "/static/css/main.a085bec3.css.map",
-    "main.80cd33a8.js.map": "/static/js/main.80cd33a8.js.map",
+    "main.ab76b89b.js.map": "/static/js/main.ab76b89b.js.map",
     "reactPlayerYouTube.72ca54e8.chunk.js.map": "/static/js/reactPlayerYouTube.72ca54e8.chunk.js.map",
     "reactPlayerSoundCloud.f44e5f32.chunk.js.map": "/static/js/reactPlayerSoundCloud.f44e5f32.chunk.js.map",
     "reactPlayerVimeo.4785d7b9.chunk.js.map": "/static/js/reactPlayerVimeo.4785d7b9.chunk.js.map",
@@ -64,6 +63,6 @@
   },
   "entrypoints": [
     "static/css/main.a085bec3.css",
-    "static/js/main.80cd33a8.js"
+    "static/js/main.ab76b89b.js"
   ]
 }
